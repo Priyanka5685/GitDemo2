@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-27T05:36:24 PDT" name="Default suite" finished-at="2023-10-27T05:36:51 PDT" duration-ms="26405">
+    <groups>
+    </groups>
+    <test started-at="2023-10-27T05:36:24 PDT" name="Default test" finished-at="2023-10-27T05:36:51 PDT" duration-ms="26405">
+      <class name="com.flipcart.qa.testcases.SignInTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:24 PDT" name="setUp" finished-at="2023-10-27T05:36:31 PDT" duration-ms="6457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerWithMandatoryInputs()[pri:1, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:31 PDT" name="registerWithMandatoryInputs" finished-at="2023-10-27T05:36:35 PDT" duration-ms="4560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithMandatoryInputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:35 PDT" name="tearDown" finished-at="2023-10-27T05:36:36 PDT" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:36 PDT" name="setUp" finished-at="2023-10-27T05:36:41 PDT" duration-ms="5315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerWithallFeilds()[pri:2, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:41 PDT" name="registerWithallFeilds" finished-at="2023-10-27T05:36:45 PDT" duration-ms="4335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithallFeilds -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:45 PDT" name="tearDown" finished-at="2023-10-27T05:36:46 PDT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:46 PDT" name="setUp" finished-at="2023-10-27T05:36:50 PDT" duration-ms="4385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerWithblankInputs()[pri:3, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:50 PDT" name="registerWithblankInputs" finished-at="2023-10-27T05:36:50 PDT" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithblankInputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipcart.qa.testcases.SignInTest@54a7079e]" started-at="2023-10-27T05:36:50 PDT" name="tearDown" finished-at="2023-10-27T05:36:51 PDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipcart.qa.testcases.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
